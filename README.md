@@ -15,14 +15,14 @@ Bu projeyi yerel bilgisayarınıza klonlayarak başlayabilirsiniz. Projeyi çal�
 
 ## Kullanım
 
-Proje klonlandıktan sonra, terminalde proje dizinine gidin ve aşağıdaki komutu çalıştırarak arayüzü başlatın:
+Proje klonlandıktan sonra,istediğini< bir editörde projeyi çalıştırabilirsiniz.
 
 
 Ardından, arayüzdeki talimatları takip ederek kitapları listeleyebilir, ekleyebilir veya kaldırabilirsiniz.
 
 ## Katkıda Bulunma
 
-Eğer bu projeyi geliştirmeye katkıda bulunmak isterseniz, lütfen bir çekme isteği gönderin. Katkılarınızı memnuniyetle karşılarız!
+Eğer bu projeyi geliştirmeye katkıda bulunmak isterseniz, lütfen bir çekme isteği gönderin. 
 
 ## Lisans
 
